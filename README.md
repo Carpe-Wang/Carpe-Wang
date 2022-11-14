@@ -6,14 +6,11 @@
 <a href="https://github.com/neoclide/coc.nvim" rel="nofollow">
   <img src="https://img.shields.io/badge/Vim-coc.nvim, make vim great again-yellowgreen" />
 </a>
-<a href="https://www.typescriptlang.org/" rel="nofollow">
-  <img src="https://img.shields.io/badge/TypeScript-strict-blue" />
-</a>
-<a href="https://github.com/vuejs/composition-api" rel="nofollow">
-  <img src="https://img.shields.io/badge/Vue-3.x/2.x & VCA & TS-brightgreen" />
-</a>
 <a href="https://flutter.dev" rel="nofollow">
   <img src="https://img.shields.io/badge/Flutter-Dart-yellow" />
+</a>
+<a href="https://www.java.com" rel="nofollow">
+  <img src="https://img.shields.io/badge/Java-JDK1.8-green"/>
 </a>
 <br />
 <br />
