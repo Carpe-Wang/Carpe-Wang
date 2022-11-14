@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Carpe-Wang 👋
 
-<!--
-**Carpe-Wang/Carpe-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/neoclide/coc.nvim" rel="nofollow">
+  <img src="https://img.shields.io/badge/Vim-coc.nvim, make vim great again-yellowgreen" />
+</a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+  <img src="https://img.shields.io/badge/TypeScript-strict-blue" />
+</a>
+<a href="https://github.com/vuejs/composition-api" rel="nofollow">
+  <img src="https://img.shields.io/badge/Vue-3.x/2.x & VCA & TS-brightgreen" />
+</a>
+<a href="https://flutter.dev" rel="nofollow">
+  <img src="https://img.shields.io/badge/Flutter-Dart-yellow" />
+</a>
+<br />
+<br />
+
+**Coding Stats:**  
+
+[![Carpe-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpe-Wang&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://visitor-badge.glitch.me/badge?page_id=Carpe-Wang.Carpe-Wang"></a>
