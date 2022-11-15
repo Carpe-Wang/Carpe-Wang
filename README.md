@@ -3,15 +3,19 @@
 
 **Languages and Tools:**  
 
+<a href="https://www.java.com" rel="nofollow">
+  <img src="https://img.shields.io/badge/Java-JDK1.8-green"/>
+</a>
 <a href="https://github.com/neoclide/coc.nvim" rel="nofollow">
   <img src="https://img.shields.io/badge/Vim-coc.nvim, make vim great again-yellowgreen" />
 </a>
 <a href="https://flutter.dev" rel="nofollow">
-  <img src="https://img.shields.io/badge/Flutter-Dart-yellow" />
+  <img src="https://img.shields.io/badge/Flutter-Dart-blue" />
 </a>
-<a href="https://www.java.com" rel="nofollow">
-  <img src="https://img.shields.io/badge/Java-JDK1.8-green"/>
+<a href="https://www.apple.com/swift/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Swift-yellow" />
 </a>
+
 <br />
 <br />
 
