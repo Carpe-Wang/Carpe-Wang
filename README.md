@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Flutter-Dart-blue" />
 </a>
 <a href="https://www.apple.com/swift/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Swift-yellow" />
+  <img src="https://img.shields.io/badge/Swift-Learning-yellow" />
 </a>
 
 <br />
