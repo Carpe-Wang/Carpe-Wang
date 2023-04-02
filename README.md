@@ -1,4 +1,4 @@
-### Hi there, I'm Carpe-Wang 👋
+### Hi there, I'm Carpe-Wang 👋🪂✈️
 
 
 **Languages and Tools:**  
