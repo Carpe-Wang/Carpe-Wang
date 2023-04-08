@@ -26,6 +26,6 @@
 
 **Coding Stats:**  
 
-[![Carpe-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpe-Wang&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Carpe-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpe-Wang&show_icons=true&custom_title=GitHub%show_owner=true%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=Carpe-Wang.Carpe-Wang"></a>
