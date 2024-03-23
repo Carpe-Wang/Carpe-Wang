@@ -12,8 +12,30 @@
 ### Master student at  [JHU](https://engineering.jhu.edu), MSE in Computer Science
 - **Duration**: 2023 - Present
 - **Relevant Courses**: Advanced Software Engineering, Artificial Intelligence.
-- **Projects**: 
-  -  ** here is nothing.
+
+## Internship Experience
+
+### [JD Tech](https://www.jdt.com.cn/) -  Development Intern
+- **Duration**: Summer 2021
+- **Responsibilities**: 
+  - Contributed to the development of backend services for the JD BaiTiao platform.
+  - Optimized database queries resulting in improved system performance.
+  - Implemented automated testing to enhance code quality.
+
+### [Dora](https://www.dora.run/) - Development Intern
+- **Duration**: fall-spring 2022
+- **Responsibilities**:
+  - Handling prevention of excessive sharding in ElasticSearch
+  
+  - Asynchronous message processing using RabbitMQ.
+
+	- Development of Enum in codeless data types.
+
+	- Development of codeless data type enumeration.
+
+	- Development of a low-code email verification script (Groovy).
+
+	- Modification of project query architecture (introducing the concept of workspace and enhancing related logic).
 
 **Languages and Tools:**  
 
