@@ -1,6 +1,9 @@
-### Hi there, I'm Carpe-Wang 👋🪂✈️
+## Hi there, I'm Carpe-Wang 👋🪂✈️
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Carpe-Wang)
+### Summary of this year
+<img align="" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpe-Wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+
+------------------------------------
 
 ### Bachelor student at [HAUT](https://computer.haut.edu.cn/), BS in Internet of Things
 - **Duration**: 2019 - 2023
@@ -8,12 +11,12 @@
 - **Projects**: 
   - **[GoRedis](https://github.com/Carpe-Wang/GoRedis)**: Implements the Redis with Goland as Graduate Project.
 
-----------------------------------------
 ### Master student at  [JHU](https://engineering.jhu.edu), MSE in Computer Science
 - **Duration**: 2023 - Present
 - **Relevant Courses**: Advanced Software Engineering, Artificial Intelligence.
 
-## Internship Experience
+------------------------------------
+### Internship Experience
 
 ### [JD Tech](https://www.jdt.com.cn/) -  Development Intern
 - **Duration**: Summer 2021
@@ -37,5 +40,15 @@
 
 	- Modification of project query architecture (introducing the concept of workspace and enhancing related logic).
 
-#### Summary of this year
-<img align="" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpe-Wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+------------------------------------
+
+
+
+### My Contribution to open source
+- [Gson](https://github.com/google/gson)
+  - [Fix DateFormat time zone is not restored and add Test.](https://github.com/google/gson/pull/2549)
+  - [validating the date format, add test case](https://github.com/google/gson/pull/2538)
+ 
+- [HertzBeat](https://github.com/dromara/hertzbeat)
+  - [add wechat alarm notify, refactor code ](https://github.com/dromara/hertzbeat/pull/1516)
+  - [refactor tdengine store](https://github.com/dromara/hertzbeat/pull/1513)
