@@ -58,4 +58,4 @@
 <br />
 <br />
 
-[![Carpe-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpe-Wang&show_icons=true&custom_title=GitHub&theme=synthwave&show_owner=true%20Stats)](https://github.com/anuraghazra/github-readme-stats)<a href="https://visitor-badge.glitch.me/badge?page_id=Carpe-Wang.Carpe-Wang"></a><img align="" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+[![Carpe-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpe-Wang&show_icons=true&custom_title=GitHub&theme=synthwave&show_owner=true%20Stats)](https://github.com/anuraghazra/github-readme-stats)<a href="https://visitor-badge.glitch.me/badge?page_id=Carpe-Wang.Carpe-Wang"></a><img align="" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpe-Wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
