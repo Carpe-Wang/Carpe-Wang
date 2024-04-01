@@ -43,7 +43,6 @@
 ------------------------------------
 
 
-
 ### My Contribution to open source
 - [Gson](https://github.com/google/gson)
   - [Fix DateFormat time zone is not restored and add Test.](https://github.com/google/gson/pull/2549)
@@ -52,3 +51,5 @@
 - [HertzBeat](https://github.com/dromara/hertzbeat)
   - [add wechat alarm notify, refactor code ](https://github.com/dromara/hertzbeat/pull/1516)
   - [refactor tdengine store](https://github.com/dromara/hertzbeat/pull/1513)
+ 
+> my motto is "Keep a single spark to start a prairie fire" in the moment.
