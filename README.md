@@ -42,8 +42,11 @@
 
 ------------------------------------
 ### Work Experience
-### [Ant Group]() - backend Development.
-
+### [Ant Group](https://www.antgroup.com/en) - backend Development.
+- **Duration** fall-spring 2023
+- **Responsibilities**:
+	- Alipay fund process optimization.
+ 		- Automatic fund label synchronization.
 ------------------------------------
 
 ### My Contribution to open source
