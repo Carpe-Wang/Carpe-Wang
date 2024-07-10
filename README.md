@@ -1,5 +1,8 @@
 ## Hi there, I'm Carpe-Wang 👋🪂✈️
 
+### Summary of this year
+<img align="" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpe-Wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+
 ------------------------------------
 
 ### Bachelor student at [HAUT](https://computer.haut.edu.cn/), BS in Internet of Things
@@ -8,7 +11,7 @@
 - **Projects**: 
   - **[GoRedis](https://github.com/Carpe-Wang/GoRedis)**: Implements the Redis with Goland as Graduate Project.
 
-### Master student at  [JHU](https://engineering.jhu.edu), MSE in Computer Science
+### Master student at  [Johns Hopkins University](https://engineering.jhu.edu), MSE in Computer Science
 - **Duration**: 2023 - Present
 - **Relevant Courses**: Advanced Software Engineering, Artificial Intelligence.
 
