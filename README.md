@@ -45,8 +45,10 @@
 ### [Ant Group](https://www.antgroup.com/en) - backend Development.
 - **Duration** fall-spring 2023
 - **Responsibilities**:
-	- Alipay fund process optimization.
- 		- Automatic fund label synchronization.
+	* Label Management for Alipay Funds. This involves the systematic organization and categorization of various funds available on Alipay, ensuring that each fund is correctly tagged with relevant metadata.
+	* Automated Management of Alipay Fund Supply Pool Labels (Automated Synchronization of Fund Attributes). This would include creating a system that automatically synchronizes fund attributes with their corresponding labels, reducing the time required for manual label creation and improving labeling efficiency by 200
+	* Construction of AIGC Relationship System for Alipay Fund-related Recommendation Keywords. This task involves building an AI-generated content (AIGC) relationship system, which manages and optimizes recommendation keywords related to Alipay funds.
+	* Logic for Recommendation and Filtering of Alipay Funds. This logic would also handle the filtering process, ensuring that users only see funds that meet their criteria or interests, and providing personalized recommendations based on their risk tolerance levels and operating habits.
 ------------------------------------
 
 ### My Contribution to open source
