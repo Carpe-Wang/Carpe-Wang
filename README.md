@@ -1,5 +1,5 @@
 ## Hi there, I'm Carpe-Wang 👋🪂✈️
-### [there is my resume](/Kaipeng Wang's.pdf)
+### [there is my resume](https://github.com/Carpe-Wang/Carpe-Wang/blob/main/Kaipeng%20Wang's.pdf)
 ### Summary of this year
 <img align="" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpe-Wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
