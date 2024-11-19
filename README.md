@@ -39,13 +39,13 @@
   
   - Asynchronous message processing using RabbitMQ.
 
-	- Development of Enum in codeless data types.
+  - Development of Enum in codeless data types.
 
-	- Development of codeless data type enumeration.
+  - Development of codeless data type enumeration.
 
-	- Development of a low-code email verification script (Groovy).
+  - Development of a low-code email verification script (Groovy).
 
-	- Modification of project query architecture (introducing the concept of workspace and enhancing related logic).
+  - Modification of project query architecture (introducing the concept of workspace and enhancing related logic).
 
 ------------------------------------
 ### Work Experience
